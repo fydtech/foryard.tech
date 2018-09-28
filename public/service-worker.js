@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2af296554b22b8dc3d259da5fe446f7d.js"
+  "/precache-manifest.6acfae5247b7a8819012eec9170ed8e2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tech-frontend"});
