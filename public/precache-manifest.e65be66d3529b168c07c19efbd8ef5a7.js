@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/js/404.1b031d7c.js"
   },
   {
-    "revision": "45aa45f351517368eee5",
-    "url": "/js/app.635fb379.js"
+    "revision": "c167512ebab371305975",
+    "url": "/js/app.70a5f199.js"
   },
   {
     "revision": "9731e073a5c58241bcbe",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/img/vue-hover.e4a92530.svg"
   },
   {
-    "revision": "716d85a59d6bed93e4632cc696d32534",
+    "revision": "1f76099a144917bb3f07d411f5bc0487",
     "url": "/index.html"
   },
   {
@@ -136,12 +136,12 @@ self.__precacheManifest = [
     "url": "/img/hind-v8-latin-regular.84e539a3.svg"
   },
   {
-    "revision": "c56d2b8b191dba7aa7a1ed61bcc7f850",
-    "url": "/fonts/montserrat-v12-latin-800.c56d2b8b.eot"
-  },
-  {
     "revision": "ffe97e572eda106faf4e82f7645c9c8d",
     "url": "/img/chevron-down.ffe97e57.svg"
+  },
+  {
+    "revision": "c56d2b8b191dba7aa7a1ed61bcc7f850",
+    "url": "/fonts/montserrat-v12-latin-800.c56d2b8b.eot"
   },
   {
     "revision": "d54cd0fb812144dbcdec5245d168a908",
@@ -180,20 +180,20 @@ self.__precacheManifest = [
     "url": "/fonts/montserrat-v12-latin-800.03873dab.ttf"
   },
   {
-    "revision": "fbc6d21dbdfe7281419aefb43c2dac8a",
-    "url": "/fonts/montserrat-v12-latin-300.fbc6d21d.eot"
-  },
-  {
-    "revision": "35386154b78d046218fc8f88a44ff515",
-    "url": "/fonts/montserrat-v12-latin-800.35386154.woff2"
+    "revision": "0a7c6df06e85d978d096d4d18fd8d43d",
+    "url": "/fonts/montserrat-v12-latin-300.0a7c6df0.woff2"
   },
   {
     "revision": "483fc3a532abeb412bb2e6a678d560de",
     "url": "/fonts/montserrat-v12-latin-300.483fc3a5.ttf"
   },
   {
-    "revision": "0a7c6df06e85d978d096d4d18fd8d43d",
-    "url": "/fonts/montserrat-v12-latin-300.0a7c6df0.woff2"
+    "revision": "fbc6d21dbdfe7281419aefb43c2dac8a",
+    "url": "/fonts/montserrat-v12-latin-300.fbc6d21d.eot"
+  },
+  {
+    "revision": "35386154b78d046218fc8f88a44ff515",
+    "url": "/fonts/montserrat-v12-latin-800.35386154.woff2"
   },
   {
     "revision": "8e7e467ca654d970db89cdb6e2b2f3d6",
@@ -220,7 +220,7 @@ self.__precacheManifest = [
     "url": "/fonts/hind-v8-latin-regular.5e2c13d7.ttf"
   },
   {
-    "revision": "45aa45f351517368eee5",
-    "url": "/css/app.9e03514a.css"
+    "revision": "c167512ebab371305975",
+    "url": "/css/app.397d0694.css"
   }
 ];
